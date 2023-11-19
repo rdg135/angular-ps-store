@@ -1,0 +1,11 @@
+.footer__container > h3 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 12px;
+
+    display: flex;
+    justify-content: center;
+
+    color: white;
+
+    margin-top: 15px;
+}
